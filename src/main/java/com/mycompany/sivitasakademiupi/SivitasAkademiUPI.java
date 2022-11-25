@@ -17,6 +17,7 @@ public class SivitasAkademiUPI {
         System.out.println(angga.toString());
         System.out.println("\n");
         Pegawai asri = new Pegawai("21014", "Asri", 20000);
+        System.out.println("\n");
         
         System.out.println(asri.toString());
     }
